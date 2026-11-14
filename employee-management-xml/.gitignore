@@ -1,0 +1,58 @@
+### Eclipse Core & Metadata ###
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.recommenders/
+
+### External Tools & Launchers ###
+.externalToolBuilders/
+*.launch
+
+### Java & Build Outputs (Maven / Gradle) ###
+*.class
+*.jar
+*.war
+*.ear
+*.log
+target/
+build/
+.gradle/
+.apt_generated/
+.apt_generated_tests/
+.factorypath
+
+### Eclipse Plugins & Language Tools ###
+# Spring Tool Suite (STS)
+.springBeans
+.sts4-cache/
+
+# C/C++ Development Tooling (CDT)
+.cproject
+.autotools
+
+# Python (PyDev) & PHP (PDT)
+*.pydevproject
+.buildpath
+
+# Scala IDE & sbt
+.target
+.cache-main
+.scala_dependencies
+.worksheet
+
+# Web & Documentation (Tern.js / TeXlipse)
+.tern-project
+.texlipse
+
+### OS-Generated Files ###
+.DS_Store
+Thumbs.db
+Desktop.ini
